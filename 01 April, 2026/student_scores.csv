@@ -1,0 +1,16 @@
+hours_studied,attendance,previous_score,study_method,final_score
+2,60,50,Self,55
+3,65,55,Self,60
+4,70,60,Coaching,68
+5,75,65,Coaching,75
+6,80,70,Online,78
+7,85,72,Online,82
+8,90,75,Coaching,88
+1,50,40,Self,45
+2,55,45,Self,50
+3,60,50,Online,58
+4,65,55,Online,65
+5,70,60,Coaching,72
+6,75,65,Coaching,80
+7,80,70,Online,85
+8,85,75,Online,90
